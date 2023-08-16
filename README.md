@@ -1,3 +1,3 @@
 # UEFN - Fortnite
 
-Scripts in Verse Language
+Code snippets in Verse Language
